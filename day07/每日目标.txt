@@ -1,0 +1,20 @@
+今天上午学了ssm项目的导入,导出和echarts,自习课的时候做了周测题
+    下午讲mq和radio
+	1.MQ（activiMQ）
+   	mq中的角色有2种：消息生产者，消息消费者
+
+   	mq中发送消息的方式有2种：点对点queue,发布/订阅topic
+       		 
+   	mq中发送消息的种类有5种
+        	textMessage,mapMessage,objectMessage,bytesMessage,streamMessage	   
+   	mq的端口号是：8161，61616
+		
+
+	2.Redis
+	   redis端口号是：6379
+  		   
+  	   redis支持的数据结构有5种
+   	 	   string,list,hash,set,zset 
+	   redis持久化方式有2种
+   		rdb(默认),aof
+	自习课的时候抄写面试题和敲代码
